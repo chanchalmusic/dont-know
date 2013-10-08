@@ -1,5 +1,5 @@
 This file is create from feature2 branch
 It will result in immediate commit
 This line will not result in an immediate commit
-This is the line i want
-
+Some more lines added
+will discard these lines
