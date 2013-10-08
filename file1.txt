@@ -2,3 +2,4 @@ This is a text file added from release branch
 I want to test files pull request behaviour
 this is the only file create from release branch
 No further file will be added from this branch
+But this line is added from a another commit in this branch to test git diff on release and origin/release
