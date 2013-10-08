@@ -1,0 +1,2 @@
+This file is added from feature1 branch
+Will be used to see what argument less git push does when commits not pushed in remote from another branch
