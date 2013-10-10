@@ -1,0 +1,13 @@
+#container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+#abc {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(44, 89, 138);
+    border: 2px solid red;
+    border-radius:25px;
+    box-shadow: 10px 5px 5px black;
+}

@@ -1,0 +1,28 @@
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#header {
+    height: 200px;
+    background-color: goldenrod;
+}
+
+#content {
+    width: 660px;
+    background-color: greenyellow;
+    float: left;
+}
+
+#sidebar {
+    width: 300px;
+    height: 300px;
+    background-color: fuchsia;
+    float: right;
+}
+
+#footer {
+
+    background-color: plum;
+
+}

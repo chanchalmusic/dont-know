@@ -1,0 +1,1060 @@
+@keyframes main {
+    0% {
+        transform: rotateY(20deg) rotateX(-20deg) rotatez(0deg) translateY(0px);
+    }
+    2% {
+        transform: rotateY(20deg) rotateX(-20deg) rotatez(0deg) translateY(0px);
+    }
+    7% {
+        transform: rotateY(-70deg) rotateX(40deg) rotatez(0deg) translateY(-160px);
+    }
+    9% {
+        transform: rotateY(10deg) rotateX(0deg) rotatez(0deg) translateY(-140px);
+    }
+    10% {
+        transform: rotateY(-10deg) rotateX(0deg) rotatez(0deg) translateY(-140px);
+    }
+    12% {
+        transform: rotateY(-10deg) rotateX(0deg) rotatez(0deg) translateY(-140px);
+    }
+    13% {
+        transform: rotateY(10deg) rotateX(0deg) rotatez(0deg) translateY(-140px);
+    }
+    15% {
+        transform: rotateY(220deg) rotateX(-40deg) rotatez(0deg) translateY(-40px) translateZ(-150px);
+    }
+    17% {
+        transform: rotateY(220deg) rotateX(-40deg) rotatez(0deg) translateY(-40px) translateZ(-150px);
+    }
+    18% {
+        transform: rotateY(200deg) rotateX(-40deg) rotatez(0deg) translateY(-40px) translateZ(-150px);
+    }
+    20% {
+        transform: rotateY(370deg) rotateX(-50deg) rotatez(0deg) translateY(-40px) translateZ(-150px);
+    }
+    21% {
+        transform: rotateY(350deg) rotateX(-50deg) rotatez(0deg) translateY(-40px) translateZ(-150px);
+    }
+    23% {
+        transform: rotateY(350deg) rotateX(-50deg) rotatez(0deg) translateY(-40px) translateZ(-150px);
+    }
+    24% {
+        transform: rotateY(340deg) rotateX(-50deg) rotatez(0deg) translateY(-40px) translateZ(-150px);
+    }
+    26% {
+        transform: rotateY(480deg) rotateX(-60deg) rotatez(0deg) translateY(50px) translateZ(-250px) translateX(40px);
+    }
+    27% {
+        transform: rotateY(475deg) rotateX(-60deg) rotatez(0deg) translateY(50px) translateZ(-250px) translateX(40px);
+    }
+    30% {
+        transform: rotateY(475deg) rotateX(-60deg) rotatez(0deg) translateY(50px) translateZ(-250px) translateX(40px);
+    }
+    31% {
+        transform: rotateY(465deg) rotateX(-60deg) rotatez(0deg) translateY(50px) translateZ(-250px) translateX(40px);
+    }
+    37% {
+        transform: rotateY(900deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    38% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    40% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    41% {
+        transform: rotateY(885deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    42% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    45% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    46% {
+        transform: rotateY(885deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    47% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    50% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    51% {
+        transform: rotateY(895deg) rotateX(15deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    52% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    60% {
+        transform: rotateY(895deg) rotateX(10deg) rotatez(0deg) translateY(-20px) translateZ(-250px) translateX(40px);
+    }
+    70% {
+        transform: rotateY(20deg) rotateX(-20deg) rotatez(0deg) translateY(0px);
+    }
+
+
+}
+
+@keyframes photos {
+    0% {
+        left: -390px;
+    }
+    33% {
+        left: -390px;
+    }
+    34% {
+        left: -260px;
+    }
+    40% {
+        left: -260px;
+    }
+    41% {
+        left: -130px;
+    }
+    45% {
+        left: -130px;
+    }
+    46% {
+        left: 0px;
+    }
+    50% {
+        left: 0px;
+        top: 0px;
+    }
+    51% {
+        left: 0px;
+        top: 90px;
+    }
+    60% {
+        left: 0px;
+        top: 90px;
+    }
+    70% {
+        left: -390px;
+        top: 0px;
+    }
+
+}
+
+@keyframes flash {
+    0% {
+        opacity: 0;
+    }
+    16% {
+        opacity: 0;
+    }
+    16.3% {
+        opacity: 1;
+    }
+    16.5% {
+        opacity: 0;
+    }
+    16.8% {
+        opacity: 1;
+    }
+    17% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0;
+    }
+    21.3% {
+        opacity: 1;
+    }
+    21.5% {
+        opacity: 0;
+    }
+    21.8% {
+        opacity: 1;
+    }
+    22% {
+        opacity: 0;
+    }
+    27% {
+        opacity: 0;
+    }
+    27.3% {
+        opacity: 1;
+    }
+    27.5% {
+        opacity: 0;
+    }
+    27.8% {
+        opacity: 1;
+    }
+    28% {
+        opacity: 0;
+    }
+
+}
+
+.flash-overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 100000;
+    background: #fff;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    animation: flash infinite 30s ease;
+}
+
+body {
+    background: #333;
+}
+
+.papers {
+    width: 120px;
+    height: 170px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    perspective: 500px;
+    transform-style: preserve-3d;
+    margin: -100px 0 0 -100px;
+}
+.paper {
+    width: 200px;
+    height: 240px;
+    transform-style: preserve-3d;
+    transform: rotateX(70deg) rotateZ(40deg) translateZ(-100px);
+    position: absolute;
+    left: 0;
+    top: 0;
+    box-shadow: 2px 1px 2px rgba(0,0,0,0.2);
+    background: url(http://brkcan.net/fun/3dcam/vader1.jpg) no-repeat center center #fdfdfd;
+    z-index: 3;
+    background-size: 180px 220px;
+}
+.paper.two {
+    transform: rotateX(70deg) rotateZ(45deg) translateZ(-103px);
+    z-index: 2;
+}
+.paper.three {
+    transform: rotateX(70deg) rotateZ(70deg) translateX(40px) translateZ(-106px);
+    z-index: 1;
+    background: url(http://brkcan.net/fun/3dcam/vader2.jpg) no-repeat center center #fdfdfd;
+}
+
+.scene {
+    z-index: 100000;
+    width: 200px;
+    height: 130px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -100px 0 0 -65px;
+    perspective: 500px;
+    transform-style: preserve-3d;
+}
+.camera {
+    width: 200px;
+    height: 130px;
+    position: absolute;
+    left: 0;
+    top: 40px;
+    transform-style: preserve-3d;
+    transform: rotateY(20deg) rotateX(-20deg) rotatez(0deg);
+    animation: main infinite 30s ease;
+    transform-origin: 50% 50%;
+}
+.camera .body {
+    width: 200px;
+    height: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-style: preserve-3d;
+}
+.body .face {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    transform-style: preserve-3d;
+    transform-origin: 50% 50% 20px;
+}
+.back.face {
+    width: 200px;
+    height: 130px;
+    background: #ddd;
+    border-radius: 12px;
+    transform: translateZ(-20px);
+}
+.front.face {
+    width: 200px;
+    height: 130px;
+    background: #ddd;
+    border-radius: 12px;
+    transform: translateZ(20px);
+}
+.left.face {
+    width: 40px;
+    height: 110px;
+    background: #bbb;
+    border-radius: 0;
+    transform: translateZ(-10px) translateY(10px) rotateY(90deg) scaleX(1.5);
+}
+.right.face {
+    width: 40px;
+    height: 110px;
+    background: #bbb;
+    border-radius: 0;
+    transform: translateZ(-20px) translateY(10px) translateX(200px) rotateY(90deg);
+}
+.top.face {
+    width: 178px;
+    height: 40px;
+    background: #eee;
+    border-radius: 0;
+    transform: translateZ(-20px) translateX(10px) rotateX(-90deg);
+}
+.bottom.face {
+    width: 178px;
+    height: 40px;
+    background: #eee;
+    border-radius: 0;
+    transform: translateZ(-20px) translateX(10px) translateY(130px) rotateX(-90deg);
+}
+.radiuses .left-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-style: preserve-3d;
+    transform: translateZ(10px) translateY(-10px) translateX(-18px) rotateY(90deg) rotateX(90deg) scaleX(1.5);
+}
+.radiuses .left-top>div {
+    width: 40px;
+    height: 5px;
+}
+
+.radiuses .right-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-style: preserve-3d;
+    transform: translateZ(0px) translateY(-10px) translateX(177px) rotateZ(0deg) rotateY(270deg) rotateX(90deg);
+}
+.radiuses .right-top>div {
+    width: 40px;
+    height: 5px;
+}
+
+.radiuses .left-bottom {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-style: preserve-3d;
+    transform: translateZ(10px) translateY(120px) translateX(-18px) rotateZ(0deg) rotateY(270deg) rotateX(270deg) scaleX(1.5);
+}
+.radiuses .left-bottom>div {
+    width: 40px;
+    height: 5px;
+}
+
+.radiuses .right-bottom {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-style: preserve-3d;
+    transform: translateZ(0px) translateY(120px) translateX(177px) rotateZ(0deg) rotateY(90deg) rotateX(270deg);
+}
+.radiuses .right-bottom>div {
+    width: 40px;
+    height: 5px;
+}
+
+.radiuses .one {
+    background: #e3e3e3;
+    transform: rotateX(18deg);
+}
+.radiuses .two {
+    background: #D9d9d9;
+    transform: rotateX(36deg) translateZ(-2px) translateY(-1px);
+}
+.radiuses .three {
+    background: #cfcfcf;
+    transform: rotateX(54deg) translateZ(-5px) translateY(-2px);
+}
+.radiuses .four {
+    background: #c5c5c5;
+    transform: rotateX(72deg) translateZ(-8px) translateY(-6px);
+}
+
+.objective {
+    width: 90px;
+    height: 90px;
+    background: #aaa;
+    border-radius: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -45px 0 0 -10px;
+    transform-style: preserve-3d;
+    transform: translateZ(4px);
+}
+.objective:before {
+    content: "";
+    background: #aaa;
+    border-radius: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 90px;
+    height: 90px;
+    transform: translateZ(-3px);
+}
+.objective:after {
+    content: "";
+    box-sizing: border-box;
+    border: 10px solid #ccc;
+    border-radius: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 90px;
+    height: 90px;
+    transform: translateZ(5px);
+}
+
+.objective.small:before {
+    background: #aaa;
+    transform: translateZ(-3px);
+}
+
+.objective.small {
+    transform: translateZ(13px) scale(0.87);
+}
+.objective.small:after {
+    transform: translateZ(4px)
+}
+.objective.small .depth {
+    height: 8px;
+    width: 10px;
+    margin: -10px 0 0 -4px;
+    background: #aaa;
+    top: 50px;
+    left: 45px;
+}
+.objective.small .lens {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    background: #222;
+    border-radius: 100%;
+    transform: translateZ(3px);
+    transform-style: preserve-3d;
+}
+.objective.small .lens-inner {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    background: #111;
+    transform: translateZ(2px);
+    box-shadow: inset 0 -1px 10px rgba(108,0,144,1);
+    background-image: linear-gradient(0deg, rgba(255,255,255,0.23) 10%,rgba(0,0,0,0) 100%), linear-gradient(to bottom, rgba(63,74,226,0.63) 0%,rgba(0,0,0,0) 100%),radial-gradient(ellipse at 40px 40px, rgba(0,0,0,1) 0%,rgba(0,0,0,0) 50%);
+}
+.objective.small .lens-inner .one {
+    width: 20px;
+    height: 20px;
+    background-image: linear-gradient(180deg, rgba(255,255,255,0.1) 0%,rgba(0,0,0,0) 100%);
+    border-radius: 100%;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+.objective.small .lens-inner .two {
+    width: 10px;
+    height: 10px;
+    background: rgba(255,255,255,0.07);
+    border-radius: 100%;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.objective.small .lens-inner .three {
+    width: 8px;
+    height: 8px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 100%;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+
+.objective .depth {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: #aaa;
+    width: 9px;
+    height: 8px;
+    margin: -3px 0 0 -4px;
+}
+/* Objective sides */
+.objective .depth.one {
+    transform: rotateY(90deg) rotateX(0deg) translateZ(-45px);
+}
+.objective .depth.two {
+    transform: rotateY(90deg) rotateX(10deg) translateZ(-45px);
+}
+.objective .depth.three {
+    transform: rotateY(90deg) rotateX(20deg) translateZ(-45px);
+}
+.objective .depth.four {
+    transform: rotateY(90deg) rotateX(30deg) translateZ(-45px);
+}
+.objective .depth.five {
+    transform: rotateY(90deg) rotateX(40deg) translateZ(-45px);
+}
+.objective .depth.six {
+    transform: rotateY(90deg) rotateX(50deg) translateZ(-45px);
+}
+.objective .depth.seven {
+    transform: rotateY(90deg) rotateX(60deg) translateZ(-45px);
+}
+.objective .depth.eight {
+    transform: rotateY(90deg) rotateX(70deg) translateZ(-45px);
+}
+.objective .depth.nine {
+    transform: rotateY(90deg) rotateX(80deg) translateZ(-45px);
+}
+.objective .depth.ten {
+    transform: rotateY(90deg) rotateX(90deg) translateZ(-45px);
+}
+
+.objective .depth.eleven {
+    transform: rotateY(90deg) rotateX(100deg) translateZ(-45px);
+}
+.objective .depth.twelve {
+    transform: rotateY(90deg) rotateX(110deg) translateZ(-45px);
+}
+.objective .depth.thirteen {
+    transform: rotateY(90deg) rotateX(120deg) translateZ(-45px);
+}
+.objective .depth.fourteen {
+    transform: rotateY(90deg) rotateX(130deg) translateZ(-45px);
+}
+.objective .depth.fifteen {
+    transform: rotateY(90deg) rotateX(140deg) translateZ(-45px);
+}
+.objective .depth.sixteen {
+    transform: rotateY(90deg) rotateX(150deg) translateZ(-45px);
+}
+.objective .depth.seventeen {
+    transform: rotateY(90deg) rotateX(160deg) translateZ(-45px);
+}
+.objective .depth.eighteen {
+    transform: rotateY(90deg) rotateX(170deg) translateZ(-45px);
+}
+.objective .depth.nineteen {
+    transform: rotateY(90deg) rotateX(180deg) translateZ(-45px);
+}
+.objective .depth.twenty {
+    transform: rotateY(90deg) rotateX(190deg) translateZ(-45px);
+}
+
+.objective .depth.twentyone {
+    transform: rotateY(90deg) rotateX(200deg) translateZ(-45px);
+}
+.objective .depth.twentytwo {
+    transform: rotateY(90deg) rotateX(210deg) translateZ(-45px);
+}
+.objective .depth.twentythree {
+    transform: rotateY(90deg) rotateX(220deg) translateZ(-45px);
+}
+.objective .depth.twentyfour {
+    transform: rotateY(90deg) rotateX(230deg) translateZ(-45px);
+}
+.objective .depth.twentyfive {
+    transform: rotateY(90deg) rotateX(240deg) translateZ(-45px);
+}
+.objective .depth.twentysix {
+    transform: rotateY(90deg) rotateX(250deg) translateZ(-45px);
+}
+.objective .depth.twentyseven {
+    transform: rotateY(90deg) rotateX(260deg) translateZ(-45px);
+}
+.objective .depth.twentyeight {
+    transform: rotateY(90deg) rotateX(270deg) translateZ(-45px);
+}
+.objective .depth.twentynine {
+    transform: rotateY(90deg) rotateX(280deg) translateZ(-45px);
+}
+.objective .depth.thirty {
+    transform: rotateY(90deg) rotateX(290deg) translateZ(-45px);
+}
+
+.objective .depth.thirtyone {
+    transform: rotateY(90deg) rotateX(300deg) translateZ(-45px);
+}
+.objective .depth.thirtytwo {
+    transform: rotateY(90deg) rotateX(310deg) translateZ(-45px);
+}
+.objective .depth.thirtythree {
+    transform: rotateY(90deg) rotateX(320deg) translateZ(-45px);
+}
+.objective .depth.thirtyfour {
+    transform: rotateY(90deg) rotateX(330deg) translateZ(-45px);
+}
+.objective .depth.thirtyfive {
+    transform: rotateY(90deg) rotateX(340deg) translateZ(-45px);
+}
+.objective .depth.thirtysix {
+    transform: rotateY(90deg) rotateX(350deg) translateZ(-45px);
+}
+.flash {
+    position: absolute;
+    left: 100px;
+    top: 0;
+    transform-style: preserve-3d;
+}
+.flash .left {
+    width: 35px;
+    height: 40px;
+    background: #ccc;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: rotateY(90deg);
+    transform-origin: left center;
+    border-radius: 0 0 35px 0;
+}
+.flash .right {
+    width: 35px;
+    height: 40px;
+    background: #ccc;
+    position: absolute;
+    left: 50px;
+    top: 0;
+    transform: rotateY(90deg);
+    transform-origin: left center;
+    border-radius: 0 0 35px 0;
+}
+.flash .radius {
+    width: 50px;
+    height:40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-style: preserve-3d;
+}
+.flash .radius>div {
+    width: 50px;
+    height: 7px;
+    background: #bbb;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.flash .radius .one {
+    transform: rotateX(90deg) translateZ(-35px) translateY(-2.5px);
+    background: #dedede;
+}
+.flash .radius .two {
+    transform: rotateX(80deg) translateZ(-35px) translateY(-2.5px);
+    background: #e0e0e0;
+}
+.flash .radius .three {
+    transform: rotateX(70deg) translateZ(-35px) translateY(-2.5px);
+    background: #e2e2e2;
+}
+.flash .radius .four {
+    transform: rotateX(60deg) translateZ(-35px) translateY(-2.5px);
+    background: #e3e3e3;
+}
+.flash .radius .five {
+    transform: rotateX(50deg) translateZ(-35px) translateY(-2.5px);
+    background: #e5e5e5;
+}
+.flash .radius .six {
+    transform: rotateX(40deg) translateZ(-35px) translateY(-2.5px);
+    background: #e7e7e7;
+}
+.flash .radius .seven {
+    transform: rotateX(30deg) translateZ(-35px) translateY(-2.5px);
+    background: #e8e8e8;
+}
+.flash .radius .eight {
+    transform: rotateX(20deg) translateZ(-35px) translateY(-2.5px);
+    background: #eaeaea;
+}
+.flash .radius .nine {
+    transform: rotateX(10deg) translateZ(-35px) translateY(-2.5px);
+    background: #ececec;
+}
+.flash .radius .ten {
+    transform: rotateX(0deg) translateZ(-35px) translateY(-2.5px);
+    background: #eee;
+}
+.flash .light {
+    width: 50px;
+    height: 35px;
+    background: #fff;
+    box-sizing: border-box;
+    border: 5px solid #ddd;
+    transform-origin: top center;
+    transform: rotateX(-90deg);
+    background-image: radial-gradient(ellipse at center 20px, rgba(200,200,200,0.7) 0%,rgba(255,255,255,0) 100%), linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(200,200,200,0) 90%);
+    box-shadow: inset 0 0 0 3px rgba(0,0,0,0.17);
+}
+
+.trigger {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background: #ccc;
+    margin: -15px 0 0 0;
+    transform-style: preserve-3d;
+    transform: translateZ(-3px) scale(0.9);
+}
+.trigger .radius {
+    transform-style: preserve-3d;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.trigger .radius>div {
+    width: 6px;
+    height: 4px;
+    background: #aaa;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin: -3px 0 0 -3px;
+}
+.trigger.two {
+    transform: translateZ(-4px) scale(0.8);
+}
+.trigger.two .radius>div {
+    background: #ddd;
+    background: #bbb;
+}
+.trigger .radius .one {
+    transform: rotateX(90deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .two {
+    transform: rotateX(90deg) rotateY(-20deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .three {
+    transform: rotateX(90deg) rotateY(-40deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .four {
+    transform: rotateX(90deg) rotateY(-60deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .five {
+    transform: rotateX(90deg) rotateY(-80deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .six {
+    transform: rotateX(90deg) rotateY(-100deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .seven {
+    transform: rotateX(90deg) rotateY(-120deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .eight {
+    transform: rotateX(90deg) rotateY(-140deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .nine {
+    transform: rotateX(90deg) rotateY(-160deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .ten {
+    transform: rotateX(90deg) rotateY(-180deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .eleven {
+    transform: rotateX(90deg) rotateY(-200deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .twelve {
+    transform: rotateX(90deg) rotateY(-220deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .thirteen {
+    transform: rotateX(90deg) rotateY(-240deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .fourteen {
+    transform: rotateX(90deg) rotateY(-260deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .fifteen {
+    transform: rotateX(90deg) rotateY(-280deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .sixteen {
+    transform: rotateX(90deg) rotateY(-300deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .seventeen {
+    transform: rotateX(90deg) rotateY(-320deg) translateZ(15px) translateY(0px);
+}
+.trigger .radius .eighteen {
+    transform: rotateX(90deg) rotateY(-340deg) translateZ(15px) translateY(0px);
+}
+.front.face .handle {
+    width: 50px;
+    height: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-style: preserve-3d;
+}
+.front.face .handle>div {
+    width: 50px;
+    height: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.front.face .handle .front {
+    width: 25px;
+    height: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #ccc;
+    border-radius: 12px 0 0 12px;
+    transform: translateZ(20px);
+    opacity: 1;
+}
+.front.face .handle .top {
+    width: 38px;
+    height: 20px;
+    background: #eee;
+    position: absolute;
+    top: 0;
+    left: 12px;
+    transform: rotateX(90deg);
+    transform-origin: top center;
+    border-radius: 0 0 20px 0;
+}
+.front.face .handle .bottom {
+    width: 38px;
+    height: 20px;
+    background: #eee;
+    position: absolute;
+    top: 130px;
+    left: 12px;
+    transform: rotateX(90deg);
+    transform-origin: top center;
+    border-radius: 0 0 20px 0;
+}
+.front.face .handle .radius {
+    width: 58px;
+    height: 130px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform-style: preserve-3d;
+}
+.front.face .handle .radius>div {
+    width: 4px;
+    height: 130px;
+    background: #000;
+    position: absolute;
+    left: 28px;
+    top: 0;
+}
+.front.face .handle .radius .one {
+    transform: rotateY(90deg) translateZ(20px) translateX(-3px);
+    background: #BCBCBC;
+}
+.front.face .handle .radius .two {
+    transform: rotateY(80deg) translateZ(20px) translateX(-3px);
+    background: #BEBEBE;
+}
+.front.face .handle .radius .three {
+    transform: rotateY(70deg) translateZ(20px) translateX(-3px);
+    background: #BFBFBF;
+}
+.front.face .handle .radius .four {
+    transform: rotateY(60deg) translateZ(20px) translateX(-3px);
+    background: #C1C1C1;
+}
+.front.face .handle .radius .five {
+    transform: rotateY(50deg) translateZ(20px) translateX(-3px);
+    background: #C2C2C2;
+}
+.front.face .handle .radius .six {
+    transform: rotateY(40deg) translateZ(20px) translateX(-3px);
+    background: #C4C4C4;
+}
+.front.face .handle .radius .seven {
+    transform: rotateY(30deg) translateZ(20px) translateX(-3px);
+    background: #C5C5C5;
+}
+.front.face .handle .radius .eight {
+    transform: rotateY(20deg) translateZ(20px) translateX(-3px);
+    background: #C7C7C7;
+}
+.front.face .handle .radius .nine {
+    transform: rotateY(10deg) translateZ(20px) translateX(-3px);
+    background: #C8C8C8;
+}
+.front.face .handle .radius .ten {
+    transform: rotateY(0deg) translateZ(20px) translateX(-3px);
+    background: #CACACA;
+}
+.back.face .screen {
+    width: 130px;
+    height: 90px;
+    background: #000;
+    position: relative;
+    margin: 31px 0 0 60px;
+    border-radius: 5px;
+    transform: translateZ(-1px);
+    overflow: hidden;
+    transform-style: preserve-3d;
+}
+.screen .photos {
+    width: 390px;
+    height: 90px;
+    position: absolute;
+    left: -390px;
+    top: 0;
+    animation: photos infinite 30s ease;
+    transform-style: preserve-3d;
+}
+.screen .photos .photo {
+    width: 130px;
+    height: 90px;
+    float: right;
+    border-radius: 5px;
+    transform-style: preserve-3d;
+    background: #333;
+    position: relative;
+    perspective: 900px;
+    background-size: cover !important;
+}
+
+
+.screen .photos .photo.one {
+    background: url(http://brkcan.net/fun/3dcam/photo1.png) no-repeat center center;
+}
+.screen .photos .photo.two {
+    background: url(http://brkcan.net/fun/3dcam/photo2.png) no-repeat center center;
+}
+.screen .photos .photo.three {
+    background: url(http://brkcan.net/fun/3dcam/photo3.png) no-repeat center center;
+}
+.screen .photos .photo.four {
+    background: url(http://brkcan.net/fun/3dcam/photo4.png) no-repeat center center;
+    margin: -90px -130px 0 0;
+}
+.circle-buttons {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 11px;
+    top: 30px;
+    border-radius: 100%;
+    box-shadow: inset 0 -2px 10px rgba(0,0,0,0.08),inset 0 2px 5px rgba(255,255,255,0.37),0 0 1px rgba(0,0,0,0.2);
+    transform: rotateZ(45deg) translateZ(-4px);
+}
+.circle-buttons .button {
+    width: 1px;
+    height: 20px;
+    background: rgba(0,0,0,0.05);
+    transform-origin: bottom center;
+    bottom: 50%;
+    right: 50%;
+    margin: 0 -1px 0 0;
+    position: absolute;
+}
+.circle-buttons  .one {
+    transform: rotateZ(0deg);
+}
+.circle-buttons  .two {
+    transform: rotateZ(90deg);
+}
+.circle-buttons  .three {
+    transform: rotateZ(180deg);
+}
+.circle-buttons  .four {
+    transform: rotateZ(270deg);
+}
+.circle-buttons  .one:after,
+.circle-buttons  .two:after,
+.circle-buttons  .three:after,
+.circle-buttons  .four:after {
+    font-size: 11px;
+    content: '<';
+    position: absolute;
+    left: 6px;
+    top: 6px;
+    color: #999;
+    text-shadow: 0 -1px 0 rgba(255,255,255,0.6);
+    transform: rotateZ(135deg) scaleX(0.5);
+}
+.circle-buttons  .two:after {
+    text-shadow: -1px 0 0 rgba(255,255,255,0.6);
+}
+.circle-buttons  .three:after {
+    text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+}
+.circle-buttons  .four:after {
+    text-shadow: 1px 0 0 rgba(255,255,255,0.6);
+}
+.window {
+    position: absolute;
+    right: 25px;
+    top: 7px;
+    background: #222;
+    border-radius: 4px;
+    width: 24px;
+    height: 14px;
+    border: 3px solid #000;
+    background-image: radial-gradient(ellipse at center 20px, rgba(127,0,164,0.7) 0%,rgba(0,0,0,0) 90%), linear-gradient(to bottom, rgba(255,255,255,0.2) 0%,rgba(0,0,0,0) 90%);
+}
+.text {
+    font-family: Helvetica, Arial, 'sans-serif';
+    transform: rotateZ(-90deg) translateX(-100px) translateZ(1px);
+    color: #777;
+    font-size: 11px;
+}
+
+h1 {
+    font-family: Helvetica, Arial, 'sans-serif';
+    display: block;
+    width: 400px;
+    text-align: center;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin: -300px 0 0 -200px;
+    color: #e2e2e2;
+    font-size: 14px;
+    font-weight: normal;
+}
+.twitter,
+.contact {
+    font-family: Helvetica, Arial, 'sans-serif';
+    border-radius: 4px;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -260px 0 0 -105px;
+    width: 100px;
+    padding: 10px 0;
+    font-size: 12px;
+    text-align: center;
+    background: #00acee;
+    color: #fff;
+    text-decoration: none;
+    z-index: 99999999999;
+    opacity: 0.7;
+    transition: 300ms all ease;
+}
+.contact {
+    background: #dd4814;
+    margin: -260px 0 0 5px;
+}
+.twitter:hover,
+.contact:hover {
+    opacity: 1;
+}
