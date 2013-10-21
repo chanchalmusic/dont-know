@@ -1,6 +1,7 @@
-This file is create from feature2 branch
+uThis file is create from feature2 branch
 It will result in immediate commit
 This line will not result in an immediate commit
 Some more lines added
 will discard these lines
 This line is added to test push.default=simple feature
+This line is added from dont-know-copy and testing fetch
